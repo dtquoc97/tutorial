@@ -1,0 +1,3 @@
+[submodule "sub/testtest"]
+	path = sub/testtest
+	url = https://github.com/dtquoc97/testtest.git
